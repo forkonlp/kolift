@@ -24,3 +24,9 @@
 * [미래창조과학부 보도자료](http://www.msip.go.kr/web/msipContents/contents.do?mId=NzM=) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
 * [국토교통부 보도자료](http://www.molit.go.kr/USR/NEWS/m_71/lst.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
 * [금융위원회 보도자료](http://www.fsc.go.kr/info/ntc_news_list.jsp?menu=7210100&bbsid=BBS0030) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
+
+## 위키 형식
+###### 위키 형식의 자료 중 저작권 정책이 확인된 자료 리스트를 작성합니다.
+
+* [나무위키 덤프](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84) - [CC BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/) - 다운로드 링크 제공
+* [한글 위키피디아 덤프](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - 다운로드 링크 제공
