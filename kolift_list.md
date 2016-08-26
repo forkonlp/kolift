@@ -8,7 +8,7 @@
 # 샘플 장소
 ###### 초기 양식을 공유하기 위한 공간으로 충분한 자료가 완성되어 사람들이 양식에 혼동이 없을 떄 폐기합니다.
 
-* [샘플 페이지](#) - [그곳의 라이선스 이름](#) - [사용언어](https://github.com/forkonlp/kolift/blob/master/kolift/sample.R)
+* [샘플 페이지](#) - [그곳의 라이선스 이름](#) - [R](https://github.com/forkonlp/kolift/blob/master/kolift/sample.R)
 * [샘플 페이지](#) - [그곳의 라이선스 이름](라이선스 원본의 링크) - []()
 
 ---
