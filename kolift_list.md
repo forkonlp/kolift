@@ -8,14 +8,14 @@
 # 샘플 장소
 ###### 초기 양식을 공유하기 위한 공간으로 충분한 자료가 완성되어 사람들이 양식에 혼동이 없을 떄 폐기합니다.
 
-* [샘플 페이지](#) - [그곳의 라이선스원본 링크](#) - [수집코드 링크](https://github.com/forkonlp/kolift/blob/master/kolift/sample.R)
-* [샘플 페이지](#) - [그곳의 라이선스원본 링크](#) - []()
+* [샘플 페이지](#) - [그곳의 라이선스 이름](#) - [사용언어](https://github.com/forkonlp/kolift/blob/master/kolift/sample.R)
+* [샘플 페이지](#) - [그곳의 라이선스 이름](라이선스 원본의 링크) - []()
 
 ---
 
 # 공공기관의 보도자료
 ###### 공공기관 중 [공공누리](http://www.kogl.or.kr/info/introduce.do) 저작권을 표시한 기관들의 자료는 출처표시 자유롭게 이용 가능합니다.
 
-* [문화체육관광부 보도자료](http://www.mcst.go.kr/web/s_notice/press/pressList.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do)
-* [국토교통부 보도자료](http://www.molit.go.kr/USR/NEWS/m_71/lst.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do)
-* [미래창조과학부 보도자료](http://www.msip.go.kr/web/msipContents/contents.do?mId=NzM=) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do)
+* [문화체육관광부 보도자료](http://www.mcst.go.kr/web/s_notice/press/pressList.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
+* [국토교통부 보도자료](http://www.molit.go.kr/USR/NEWS/m_71/lst.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
+* [미래창조과학부 보도자료](http://www.msip.go.kr/web/msipContents/contents.do?mId=NzM=) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
