@@ -17,3 +17,4 @@
 * [문화체육관광부 보도자료](http://www.mcst.go.kr/web/s_notice/press/pressList.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
 * [국토교통부 보도자료](http://www.molit.go.kr/USR/NEWS/m_71/lst.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
 * [미래창조과학부 보도자료](http://www.msip.go.kr/web/msipContents/contents.do?mId=NzM=) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
+* [국토교통부 보도자료](http://www.molit.go.kr/USR/NEWS/m_71/lst.jsp) - [공공누리 제 1유형: 출처표시](http://www.kogl.or.kr/info/license.do) - []()
